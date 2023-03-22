@@ -228,10 +228,10 @@ main .container {
 }
 
 .menu-2 {
-        display: flex;
-        list-style: none;
-        align-items: center; 
-        flex-wrap: wrap;    
+    display: flex;
+    list-style: none;
+    align-items: center; 
+    flex-wrap: wrap;    
 }
 
 .menu-2 li {
